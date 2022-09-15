@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WeatherStation</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="device.name">Device %1$s</string>
+    <string name="device.temperature">\u2022 Temperature: %1$s%2$s</string>
+    <string name="device.humidity">\u2022 Humidity: %1$s%2$s</string>
+    <string name="device.co2">\u2022 CO2: %1$s%2$s</string>
+    <string name="device.noise">\u2022 Noise: %1$s%2$s</string>
+
+
+    <string name="module.type">Type: %1$s</string>
+    <string name="module.min.temp">\u2022 Temp min: %1$s%2$s</string>
+    <string name="module.max.temp">\u2022 Temp max: %1$s%2$s</string>
+
+
+    <string name="login.email">Email</string>
+    <string name="login.password">Password</string>
+    <string name="login.title">LOG IN</string>
+    <string name="login.failed">Log in failed ! check your credentials</string>
+
+    <string name="login.sharedPreferences">LoginSharedPreferences</string>
+    <string name="login.sharedPreferences.refresh.token">LoginSharedPreferencesRefreshToken</string>
+
+</resources>
